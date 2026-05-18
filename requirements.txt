@@ -1,0 +1,15 @@
+streamlit==1.57.0
+xarray==2026.4.0
+h5netcdf==1.8.1
+h5py==3.16.0
+pandas==3.0.3
+numpy==2.4.5
+geopandas==1.1.0
+geobr==0.2.2
+shapely==2.1.0
+matplotlib==3.10.9
+pyproj==3.7.2
+pyogrio==0.12.1
+requests==2.34.2
+plotly==6.7.0
+certifi==2026.4.22
